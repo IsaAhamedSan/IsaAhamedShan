@@ -1,7 +1,12 @@
 [![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)]
 <h1 align="center">Hi 👋, I'm Isa Ahamed Shan</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
-<img src="https://i.imgur.com/50NA7vr.gif" align="right" alt="Coding" width="400" />
+<img
+          align="right"
+          alt="Coding"
+          width="400"
+          src="https://i.imgur.com/50NA7vr.gif"
+        />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaahamedshan&label=Profile%20views&color=0e75b6&style=flat" alt="isaahamedshan" /> </p>
 
