@@ -5,7 +5,7 @@
           align="right"
           alt="Coding"
           width="400"
-          src="https://i.imgur.com/50NA7vr.gif"
+          src="https://iconscout.com/lottie-animation/programmer-4375641"
         />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaahamedshan&label=Profile%20views&color=0e75b6&style=flat" alt="isaahamedshan" /> </p>
