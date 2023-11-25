@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaahamedshan&label=Profile%20views&color=0e75b6&style=flat" alt="isaahamedshan" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **MERN**
 
