@@ -18,11 +18,12 @@
 
 - ⚡ Fun fact **is I am not even funny 😒😒**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/shan49141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shan49141" height="30" width="40" /></a>
-<a href="https://discord.gg/GLORD-ISA#0962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GLORD-ISA#0962" height="30" width="40" /></a>
+:coffee: &emsp;Connect with me!<br>
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/shan49141) 
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GLORD-ISA#0962)
 </p>
+
 
 #### Things I code with
 
