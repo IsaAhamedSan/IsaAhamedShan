@@ -33,9 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=isaahamedsan&show_icons=true&theme=catppuccin_mocha" alt="isaahamedsan" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaahamedsan&show_icons=true&locale=en" alt="isaahamedsan" /></p>
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IsaAhamedSan&theme=duskfox" alt="GitHub Streak" /></a>
 
 
